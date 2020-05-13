@@ -6,5 +6,6 @@ public class Test1 {
         //明明写的代码
         System.out.println("师姐好");
         System.out.println("师姐好，师兄好");
+        System.out.println("师姐好，师弟好");
     }
 }
